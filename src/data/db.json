@@ -1,0 +1,9 @@
+{
+    "usuarios": [
+      { "id": 1, "nombre": "Jesus" } 
+    ],
+    "tareas": [
+      { "id": 1, "descripcion": "Taller de Nivelación", "usuarioId": 3 }
+    ]
+  }
+  
