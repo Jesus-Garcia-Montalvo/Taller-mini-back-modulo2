@@ -1,9 +1,12 @@
 {
-    "usuarios": [
-      { "id": 1, "nombre": "Jesus" } 
-    ],
-    "tareas": [
-      { "id": 1, "descripcion": "Taller de Nivelación", "usuarioId": 3 }
-    ]
-  }
-  
+  "nombres": [
+    {
+      "nombre": "Jesus",
+      "id": 1
+    },
+    {
+      "nombre": "Juan",
+      "id": 2
+    }
+  ]
+}
